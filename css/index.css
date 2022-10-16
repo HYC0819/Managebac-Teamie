@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    background-image: url("../media/wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300vh;
+}
+
+div.top-bar {
+    position: fixed;
+    background-color: rgb(32,33,36);
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 7vh;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+div.calender {
+    display: flex;
+    color: white;
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    margin-top: 10vh;
+    margin-left: 25vw;
+    background-color: rgb(32,33,36);
+    width: 50vw;
+    height: 33vh;
+    border-radius: 1%/2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+div.calender .date {
+    width: 25vw;
+    height: 33vh;
+    display: block;
+}
+
+div.calender .timetable {
+    padding-left: 2.5vw;
+    width: 25vw;
+    height: 33vh;
+}
+
+div.calender .date {
+    margin-left: -5vw;
+    padding-top: 6vh;
+    text-align: center;
+    line-height: 0.5;
+}
+
+div.calender .date p:first-of-type {
+    font-weight: 600;
+    font-size: 2.5vh;
+    margin-left: 20%;
+    color: rgb(132, 144, 170);
+}
+
+div.calender .date p:nth-of-type(2) {
+    color: rgb(255, 58, 58);
+    font-weight: 600;
+    font-size: 2.5vh;
+    margin-top: -0.5vh;
+    margin-left: 20%;
+}
+
+div.calender .date p:nth-of-type(3) {
+    font-weight: 800;
+    margin-top: 1vh;
+    padding-top: 2vh;
+    font-size: 7vh;
+    margin-left: 20%;
+}
+
+div.calender .seperator {
+    background-color: rgb(109, 117, 134);
+    width: 2px;
+    height: 33vh;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    font-size: 2vh;
+    border: 2.5px solid rgb(109, 117, 134);
+    text-align: left;
+    padding: 8px;
+}
+
+div.timetable {
+    padding-top: 5vh;
+    text-align: center;
+}
+
+div.classes {
+    display: block;
+    color: white;
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    margin-top: 3vh;
+    margin-left: 25vw;
+    background-color: rgb(32,33,36);
+    max-width: 50vw;
+    border-radius: 1%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+div.classes h1:first-of-type {
+    font-size: 4vh;
+    padding-top: 4vh;
+}
+div.classes h1:last-of-type {
+    padding-bottom: 4vh;
+}
+
+div.classes h1 {
+    line-height: 0.5;
+    margin: 2vw;
+}
+
+div.classes h1 a {
+    font-weight: 400;
+    font-size: 2vh;
+    color: white;
+    text-decoration: none;
+}
+
+div.classes h1 a:hover {
+    color: rgb(91, 154, 255);
+}
+
+img.pfp {
+    position: absolute;
+    top: 1.5vh;
+    right: 3.5vh;
+    width: 4vh;
+    height: 4vh;
+    border-radius: 50%;
+}
+
+img.logo {
+    position: absolute;
+    top: 1.5vh;
+    left: 3.5vh;
+    height: 4vh;
+}

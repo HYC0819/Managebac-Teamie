@@ -1,0 +1,152 @@
+{
+    "Monday": [
+        {
+            "start": "8:10",
+            "end": "9:25",
+            "name": "Math"
+        },
+        {
+            "start": "9:50",
+            "end": "10:15",
+            "name": "Advisory"
+        },
+        {
+            "start": "10:15",
+            "end": "11:30",
+            "name": "English"
+        },
+        {
+            "start": "12:20",
+            "end": "13:35",
+            "name": "Music"
+        },
+        {
+            "start": "13:45",
+            "end": "15:00",
+            "name": "Science"
+        }
+    ],
+    "Tuesday": [
+        {
+            "start": "8:10",
+            "end": "9:25",
+            "name": "Science"
+        },
+        {
+            "start": "9:50",
+            "end": "10:15",
+            "name": "Advisory"
+        },
+        {
+            "start": "10:15",
+            "end": "11:30",
+            "name": "Physical Education"
+        },
+        {
+            "start": "12:20",
+            "end": "13:35",
+            "name": "Design & Technology"
+        },
+        {
+            "start": "13:45",
+            "end": "14:20",
+            "name": "Math"
+        },
+        {
+            "start": "14:20",
+            "end": "15:00",
+            "name": "Chinese"
+        }
+    ],
+    "Wednesday": [
+        {
+            "start": "8:10",
+            "end": "9:25",
+            "name": "English"
+        },
+        {
+            "start": "9:50",
+            "end": "10:15",
+            "name": "Advisory"
+        },
+        {
+            "start": "10:15",
+            "end": "11:30",
+            "name": "Humanities"
+        },
+        {
+            "start": "12:20",
+            "end": "13:35",
+            "name": "Chinese"
+        },
+        {
+            "start": "13:45",
+            "end": "14:20",
+            "name": "Humanities"
+        },
+        {
+            "start": "14:20",
+            "end": "15:00",
+            "name": "Design & Technology"
+        }
+    ],
+    "Thursday": [
+        {
+            "start": "8:10",
+            "end": "9:25",
+            "name": "Physical Education"
+        },
+        {
+            "start": "9:50",
+            "end": "10:15",
+            "name": "Advisory"
+        },
+        {
+            "start": "10:15",
+            "end": "11:30",
+            "name": "Drama"
+        },
+        {
+            "start": "12:20",
+            "end": "13:35",
+            "name": "Math"
+        },
+        {
+            "start": "13:45",
+            "end": "15:00",
+            "name": "English"
+        }
+    ],
+    "Friday": [
+        {
+            "start": "8:10",
+            "end": "8:45",
+            "name": "Life Skills"
+        },
+        {
+            "start": "8:50",
+            "end": "9:25",
+            "name": "Science"
+        },
+        {
+            "start": "9:50",
+            "end": "10:15",
+            "name": "Advisory"
+        },
+        {
+            "start": "10:15",
+            "end": "11:30",
+            "name": "Chinese"
+        },
+        {
+            "start": "12:20",
+            "end": "13:35",
+            "name": "Humanities"
+        },
+        {
+            "start": "13:45",
+            "end": "15:00",
+            "name": "Art"
+        }
+    ]
+}

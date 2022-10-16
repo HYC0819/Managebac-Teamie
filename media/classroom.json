@@ -1,0 +1,1582 @@
+[
+    {
+      "nid": 95167,
+      "gid": 6758,
+      "type": 1116,
+      "name": "MS Unshelved - MS_Unshelved",
+      "initials": "MUM",
+      "status": true,
+      "created": 1465452107,
+      "image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/cd76264f75bc4e393edccb26963ecaa4.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/8afd551e5eaf27e416985cbdd18f0a1c.png"
+      },
+      "description": "<p>For pleasure in the pursuit of intellectual enlightenment through lifelong reading.</p>",
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": false,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 0,
+        "academic_year_tid": 0,
+        "standard_version": 0,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_campus",
+          "id": null,
+          "label": null
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": null
+        }
+      }
+    },
+    {
+      "nid": 233169,
+      "gid": 12764,
+      "type": 1116,
+      "name": "MS Global Concerns - Dover",
+      "initials": "MGC",
+      "status": true,
+      "created": 1536547256,
+      "image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/0997541bd8a3cd2051abe7f57718c5e4.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/45119b0096b46b4b84877dd252a58283.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": false,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 0,
+        "academic_year_tid": 0,
+        "standard_version": 0,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": null
+        }
+      }
+    },
+    {
+      "nid": 327445,
+      "gid": 16731,
+      "type": 1115,
+      "name": "Dover_Class_of_2027 - Dover Class of 2027",
+      "initials": "DCo",
+      "status": true,
+      "created": 1597730815,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-327445.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/5e4b97f320e4ba2a8e421564c001fbc3.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": false,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 0,
+        "academic_year_tid": 0,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 489768,
+      "gid": 18723,
+      "type": 1115,
+      "name": "MS Dover Mostar",
+      "initials": "MDM",
+      "status": true,
+      "created": 1629769828,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-489768.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/634d2f7a45105d14e2a7e9767bb881c0.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": false,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 0,
+        "academic_year_tid": 0,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_campus",
+          "id": null,
+          "label": null
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": null
+        }
+      }
+    },
+    {
+      "nid": 559143,
+      "gid": 18868,
+      "type": 1116,
+      "name": "Jakarta Street Kids - XSProject",
+      "initials": "JSK",
+      "status": true,
+      "created": 1644453278,
+      "image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/ff8f97d915ae59350b02eb5621e01e68.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/9df5630d2dbf5b024515e9decefa8394.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 0,
+        "academic_year_tid": 0,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": null
+        }
+      }
+    },
+    {
+      "nid": 610300,
+      "gid": 19022,
+      "type": 1115,
+      "name": "8ART10 - Art",
+      "initials": "8A",
+      "status": true,
+      "created": 1660012278,
+      "image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/a2e304a6ad77ecebe3a019783758a6be.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/cdc0e5a4275ab903cf0f4686e37424d9.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14182,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9342,
+          "label": "Art"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13983,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 610552,
+      "gid": 19148,
+      "type": 1115,
+      "name": "8CHI2NDB2 - Chinese Second Language",
+      "initials": "8CS",
+      "status": true,
+      "created": 1660012313,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-610552.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/9aabc6e8ac968e9d2110ed6ac435e8f9.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14213,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9343,
+          "label": "Asian Languages"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13990,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 610764,
+      "gid": 19254,
+      "type": 1115,
+      "name": "8CLSMLI - Class teacher",
+      "initials": "8Ct",
+      "status": true,
+      "created": 1660012339,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-610764.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/83d4f6276a6e83fb957c5e1fc04efb8b.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 0,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 611022,
+      "gid": 19383,
+      "type": 1115,
+      "name": "8DT10 - D&T: Design & Technology",
+      "initials": "8DT",
+      "status": true,
+      "created": 1660012378,
+      "image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/ccf4e3d72b3c613b84afd5308b7e899e.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/60a23218f1edd9cd6760977c0a6fa0ad.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14148,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9349,
+          "label": "Design & Technology"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13984,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 611224,
+      "gid": 19484,
+      "type": 1115,
+      "name": "8DRAMA10 - Drama",
+      "initials": "8D",
+      "status": true,
+      "created": 1660012404,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-611224.png"
+      },
+      "cover_image": {
+        "href": null
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14155,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9350,
+          "label": "Drama"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13985,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 611458,
+      "gid": 19601,
+      "type": 1115,
+      "name": "8ENG10 - English",
+      "initials": "8E",
+      "status": true,
+      "created": 1660012430,
+      "image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/b61a7eeb470176920288c7b73e7b148f.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/8e4d0002acc2081c16974cb27526003a.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14122,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9351,
+          "label": "English"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13987,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 611930,
+      "gid": 19837,
+      "type": 1115,
+      "name": "8HOGRMC - Head of Grade",
+      "initials": "8Ho",
+      "status": true,
+      "created": 1660012494,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-611930.png"
+      },
+      "cover_image": {
+        "href": null
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 0,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 612040,
+      "gid": 19892,
+      "type": 1115,
+      "name": "8HUM10 - Humanities",
+      "initials": "8H",
+      "status": true,
+      "created": 1660012507,
+      "image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/e72e5b4812d0a25c0fa97cd0b0fbf8af.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/17a7adc2c305e02f4c4d829b6b16fe11.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14083,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9357,
+          "label": "Humanities"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13989,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 612184,
+      "gid": 19964,
+      "type": 1115,
+      "name": "8LSKIL10 - Life Skills",
+      "initials": "8LS",
+      "status": true,
+      "created": 1660012519,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-612184.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/7edfd91d221ac74ead29cf111f4fbba3.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14413,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9348,
+          "label": "Counselling"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 612372,
+      "gid": 20058,
+      "type": 1115,
+      "name": "8MATHB11 - Mathematics",
+      "initials": "8M",
+      "status": true,
+      "created": 1660012543,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-612372.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/730385057b1dc839695e90785d962c5b.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14537,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9360,
+          "label": "Mathematics"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13991,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 612636,
+      "gid": 20190,
+      "type": 1115,
+      "name": "8MUS10 - Music",
+      "initials": "8M",
+      "status": true,
+      "created": 1660012581,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-612636.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/da9d40fbf8c2a6d38fa26bb2a102784e.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14195,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9362,
+          "label": "Music"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13992,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 612908,
+      "gid": 20326,
+      "type": 1115,
+      "name": "8PEB11 - Physical Education",
+      "initials": "8PE",
+      "status": true,
+      "created": 1660012619,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-612908.png"
+      },
+      "cover_image": {
+        "href": null
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14135,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 9364,
+          "label": "Physical Education"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13993,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 613130,
+      "gid": 20437,
+      "type": 1115,
+      "name": "8SCI10 - Science",
+      "initials": "8S",
+      "status": true,
+      "created": 1660012644,
+      "image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/46f7e47ca9073937fc18d741c74295da.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/53fbc60ccce1e3110dfa0f7eeb2c7357.png"
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": true,
+        "scale_type": "standard",
+        "grade_tid": 14101,
+        "subject_tid": 14106,
+        "academic_year_tid": 23767,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": true,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": 643,
+          "label": "Science"
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": true,
+        "fields": {
+          "field_school_learning_area": 13994,
+          "field_school_level": 714
+        }
+      }
+    },
+    {
+      "nid": 631845,
+      "gid": 20836,
+      "type": 1116,
+      "name": "Dover Middle School ACTIVITIES",
+      "initials": "DMS",
+      "status": true,
+      "created": 1663223748,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-631845.png"
+      },
+      "cover_image": {
+        "href": "https://dex-s3-t-uwc-trial.theteamie.com/9e88394b62d5282a603d3bc2e0fabd63.png"
+      },
+      "description": "<p>This group is for all activities for Dover Middle School</p>\n",
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": false
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 0,
+        "academic_year_tid": 0,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": 1,
+      "group_enrol_start_date": null,
+      "group_enrol_end_date": null,
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": null
+        }
+      }
+    },
+    {
+      "nid": 643382,
+      "gid": 20899,
+      "type": 1115,
+      "name": "G8MATHCOMP - G8 Maths Competition",
+      "initials": "GGM",
+      "status": true,
+      "created": 1665710710,
+      "image": {
+        "href": "https://dex-cs-uwcsealearning.theteamie.com/sites/uwc-trial.theteamie.com/files/pictures/classroom-picture-643382.png"
+      },
+      "cover_image": {
+        "href": null
+      },
+      "description": null,
+      "completion": {
+        "rules": [
+          "finish_all_materials"
+        ],
+        "min_score": 0,
+        "enabled": true
+      },
+      "star": {
+        "status": false,
+        "weight": 0
+      },
+      "roles": {
+        "8": "student"
+      },
+      "permissions": [],
+      "actions": [],
+      "default_tab": "",
+      "parent_gradebook_visibility": true,
+      "is_child_member": false,
+      "sbgr": {
+        "has_objectives": false,
+        "scale_type": "standard",
+        "grade_tid": 0,
+        "subject_tid": 14537,
+        "academic_year_tid": 2272,
+        "standard_version": 1,
+        "scales": []
+      },
+      "has_objectives": false,
+      "cohort_fields": [
+        {
+          "name": "field_school_course",
+          "id": null,
+          "label": null
+        },
+        {
+          "name": "field_school_level",
+          "id": 714,
+          "label": "G8"
+        },
+        {
+          "name": "field_campus",
+          "id": 15,
+          "label": "Dover"
+        }
+      ],
+      "group_enrol_type": "1",
+      "group_enrol_start_date": "1665711000",
+      "group_enrol_end_date": "1665711000",
+      "learning_progression_enabled": false,
+      "lesson_progression_enabled": false,
+      "lti_apps": [],
+      "t_qr": {
+        "allow_qr_login": false,
+        "require_pin_for_qr": false
+      },
+      "reportables": {
+        "enabled": false,
+        "fields": {
+          "field_school_learning_area": null,
+          "field_school_level": 714
+        }
+      }
+    }
+  ]
